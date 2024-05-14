@@ -11,7 +11,9 @@ profile:
   more_info: >
     <p>Room no: L1.123</p>
     <p>Institut für Numerische und Angewandte Mathematik</p>
-    <p>Lotzestraße 16, 37073, Göttingen</p>
+    <p>Lotzestraße 16</p>
+    <p> 37073, Göttingen</p>
+    <p> Email : [:email:](kkrish@mathematik.uni-goettingen.de)</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
