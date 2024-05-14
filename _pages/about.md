@@ -13,7 +13,6 @@ profile:
     <p>Institut für Numerische und Angewandte Mathematik</p>
     <p>Lotzestraße 16</p>
     <p> 37073, Göttingen</p>
-    <p> kkrish[at]mathematik[dot]uni-goettingen[dot]de) </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
