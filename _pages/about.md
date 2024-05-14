@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>PhD student</p>
     <p>Mathematisches Institut</p>
-    <p>Georg-August-Universität </p>
-    <p> D-37073 Göttingen</p>
+    <p>Georg-August-Universität Göttingen</p>
+    <p>D-37073 </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
