@@ -20,8 +20,4 @@ social: false # includes social icons at the bottom of the page
 
 Hi, I am a DAAD Graduate Scholarship Awardee doing my doctoral studies at [Georg-August Universität, Göttingen](https://www.uni-goettingen.de/en/1.html) under [Dr. Chenchang Zhu](https://www.uni-math.gwdg.de/zhu/). I am also an associated member of the Research Training Group ([RTG-2491](https://www.uni-goettingen.de/de/607635.html)) on Fourier Analysis and Spectral theory. Previously, I worked as a Guest lecturer in Mathematics at Govt. Polytechnic College, Ezhukone from October 2021 to July 2022. 
 
-I completed my Integrated Bachelors-Masters of Science in Mathematical Science from [IISER Thiruvananthapuram](https://www.iisertvm.ac.in) with a minor in Biological sciences. I did my Master's thesis on Higher Lie groupoids and associated Stacks with Dr. Saikat Chatterjee.  
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my Integrated Bachelors-Masters of Science in Mathematical Science from [IISER Thiruvananthapuram](https://www.iisertvm.ac.in) with a minor in Biological sciences. I did my Master's thesis on Higher Lie groupoids and associated Stacks with [Dr. Saikat Chatterjee](https://www.iisertvm.ac.in/faculty/saikat/personal).  
