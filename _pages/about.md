@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I am a DAAD Graduate Scholarship Awardee doing my doctoral studies at [Georg-August Universität, Göttingen](https://www.uni-goettingen.de/en/1.html) under [Dr. Chenchang Zhu](https://www.uni-math.gwdg.de/zhu/). I am also an associated member of the Research Training Group ([RTG-2491](https://www.uni-goettingen.de/de/607635.html)) on Fourier Analysis and Spectral theory. Previously, I worked as a Guest lecturer in Mathematics at Govt. Polytechnic College, Ezhukone from October 2021 to July 2022. 
