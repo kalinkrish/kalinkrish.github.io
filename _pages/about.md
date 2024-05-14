@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Kalin Krishna
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. PhD Student, University of Göttingen.
+subtitle:  PhD Student, University of Göttingen.
 
 profile:
   align: right
