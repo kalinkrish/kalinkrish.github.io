@@ -7,7 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-- "From Cuts to Cats: Abstract nonsense in Optimization", RTG Ph.D. Seminar, University of Göttingen, June 16, 2023.
+-"What's your Type?-Introduction to HoTT ([notes](/assets/pdf/Whats Your Type?.pdf))", RTG Ph.D. Seminar, University of Göttingen, Nov 17, 2023. 
+ "From Cuts to Cats: Abstract nonsense in Optimization", RTG Ph.D. Seminar, University of Göttingen, June 16, 2023.
 - "[Kan we fill outer horns?](/assets/pdf/BGW_Retreat.pdf)", Bonn-Göttingen-Würzburg Retreat, June 10, 2023.
 - "[Coloring Higher Bibundles](/assets/pdf/Oberseminar.pdf)", Higher Structure Seminar, University of Göttingen, Dec 14, 2022.
 - [Introductory talk](/assets/pdf/GRK_KK.pdf) at RTG-2491 retreat, Oct 29, 2022.
