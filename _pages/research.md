@@ -10,6 +10,7 @@ nav_order: 6
 I am mainly interested in Higher groupoids and morphisms between them. Groupoids are, as the name suggests, mathematical structures that are similar to groups but are different in the sense, not any two compositions are well defined. Category theoretically they are just small categories with all the morphisms being isomorphisms. Groupoids play an important role in algebraic topology, differential geometry, and in various other fields of mathematics. You can generalize this notion to a notion of an n-groupoid in the higher n-categories. As per the Yoneda philosophy, our objective is to study these higher groupoids with respect to the morphisms between them.
 
 ### Conferences, Seminars, and Workshops attended
+- Organizer of **Exploring new arrows in the BGW-groupoid**, Higher Structures PhD Retreat, Bielefeld, Oct 25-28, 2024. 
 - **Poisson Conference 2024**, Accademia Pontaniana-Naples, July 8-12, 2024. 
 - **International Category Theory Conference 2024**, Santiago de Compostella, June 23-30, 2024. 
 - **Developments in Modern Mathematics**: WiMGo conference, University of Göttingen, Sept 18-20, 2023.
