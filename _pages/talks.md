@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
+
 - "Bundles Bundles Everywhere", Exploring new arrows in the BGW-groupoid, Higher Structures PhD Retreat, Oct 27, 2024.
 - "Higher Groupoids and Higher generalized Morphisms", School of Mathematics Seminar, IISER Thiruvananthapuram, Sep 26, 2024.
 - "What's your Type?-Introduction to HoTT ([notes](/assets/pdf/Hott.pdf))", RTG Ph.D. Seminar, University of Göttingen, Nov 17, 2023.
