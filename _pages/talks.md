@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
+
 - "Higher Groupoids and Higher Generalized Morphisms", The Calgary Peripatetic Seminar, University of Calgary, Nov 22, 2024.
 - "Bundles, Bundles Everywhere", Exploring new arrows in the BGW-groupoid, Higher Structures PhD Retreat, Oct 27, 2024.
 - "Higher Geometric Groupoids and morphisms", School of Mathematics Seminar, IISER Thiruvananthapuram, Sep 26, 2024.
