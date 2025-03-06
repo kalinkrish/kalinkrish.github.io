@@ -10,7 +10,7 @@ nav_order: 6
 - "Higher Groupoids and Higher Generalized Morphisms", The Calgary Peripatetic Seminar, University of Calgary, Nov 22, 2024.
 - "Bundles, Bundles Everywhere", Exploring new arrows in the BGW-groupoid, Higher Structures PhD Retreat, Oct 27, 2024.
 - "Higher Geometric Groupoids and morphisms", School of Mathematics Seminar, IISER Thiruvananthapuram, Sep 26, 2024.
-- "$\infty$-category of Higher geometric groupoids", Higher Differential Geometry Seminar, Max Planck Institute for Mathematics, Bonn, Aug 14, 2024.
+- "$$\infty$$-category of Higher geometric groupoids", Higher Differential Geometry Seminar, Max Planck Institute for Mathematics, Bonn, Aug 14, 2024.
 - "What's your Type?-Introduction to HoTT ([notes](/assets/pdf/Hott.pdf))", RTG Ph.D. Seminar, University of Göttingen, Nov 17, 2023.
 - "From Cuts to Cats: Abstract nonsense in Optimization", RTG Ph.D. Seminar, University of Göttingen, June 16, 2023.
 - "[Kan we fill outer horns?](/assets/pdf/BGW_Retreat.pdf)", Bonn-Göttingen-Würzburg Retreat, June 10, 2023.
