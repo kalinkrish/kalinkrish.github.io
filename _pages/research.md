@@ -11,6 +11,7 @@ I am mainly interested in Higher groupoids and morphisms between them. Groupoids
 
 ### Conferences, Seminars, and Workshops organized
 
+- **[Exploring new arrows in the BCGW-groupoid II](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2025/)**, Higher Structures PhD Retreat, Burbach, Mar 7-10, 2025.
 - **[Exploring new arrows in the BGW-groupoid](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/)**, Higher Structures PhD Retreat, Bielefeld, Oct 25-28, 2024.
 
 ### Conferences, Seminars, and Workshops attended
