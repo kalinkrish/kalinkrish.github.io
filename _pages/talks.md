@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
+- "Do Youneeda Lemma?", RTG PhD Seminar, University of Göttingen, May 23, 2025.
 - "Bisimplicial manifolds between higher Lie groupoids", Oberseminar Deformationsquantisierung und Geometrie, Julius-Maximilians-Universität Würzburg, May 02, 2025.
 - "Higher Groupoids and Higher Generalized Morphisms", The Calgary Peripatetic Seminar, University of Calgary, Nov 22, 2024.
 - "Bundles, Bundles Everywhere", Exploring new arrows in the BGW-groupoid, Higher Structures PhD Retreat, Oct 27, 2024.
