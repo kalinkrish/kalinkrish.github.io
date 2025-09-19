@@ -11,11 +11,14 @@ I am mainly interested in Higher groupoids and morphisms between them. Groupoids
 
 ### Conferences, Seminars, and Workshops organized
 
+- **[BCGU-W Research Retreat](https://www.mathematik.uni-wuerzburg.de/aktuelles/winter-summerschools/bcgu-w-research-retreat/)**, Würzburg, Dec 05-08, 2025.
 - **[Exploring new arrows in the BCGW-groupoid II](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2025/)**, Higher Structures PhD Retreat, Burbach, Mar 7-10, 2025.
 - **[Exploring new arrows in the BGW-groupoid](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/)**, Higher Structures PhD Retreat, Bielefeld, Oct 25-28, 2024.
 
 ### Conferences, Seminars, and Workshops attended
 
+- **Higher Structures: Recent Developments and Applications** , Universität Hamburg, Germany, Sep 08-12, 2025.
+- **International Category Theory Conference 2025** , Masaryk University, Brno, Czech Republic, July 13-19, 2025.
 - **Higher Geometric Structures along the Lower Rhine XVIII** , Radboud University, Nijmegen, Jan 23-24, 2025.
 - **Poisson Conference 2024**, Accademia Pontaniana-Naples, July 8-12, 2024.
 - **International Category Theory Conference 2024**, Santiago de Compostella, June 23-30, 2024.

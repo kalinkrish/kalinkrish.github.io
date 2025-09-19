@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-
+- "Higher Lie groupoids and Correspondences", Gong Talk, Higher Structures: Recent Developments and Applications, Universität Hamburg, Sep 08, 2025.
 - "Do Youneeda Lemma?", RTG PhD Seminar, University of Göttingen, May 23, 2025.
 - "Bisimplicial manifolds between higher Lie groupoids", Oberseminar Deformationsquantisierung und Geometrie, Julius-Maximilians-Universität Würzburg, May 02, 2025.
 - "Higher Groupoids and Higher Generalized Morphisms", The Calgary Peripatetic Seminar, University of Calgary, Nov 22, 2024.
