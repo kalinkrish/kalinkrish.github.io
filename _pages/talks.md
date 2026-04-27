@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
+- "Double --> Simplicial Generalized Morphisms ", Short Talk, [BCGU-W  Research Retreat](https://www.mathematik.uni-wuerzburg.de/aktuelles/winter-summerschools/bcgu-w-research-retreat/), Würzburg, Dec 06, 2025.
 - "Higher Lie groupoids and Correspondences", Gong Talk, Higher Structures: Recent Developments and Applications, Universität Hamburg, Sep 08, 2025.
 - "Do Youneeda Lemma?", RTG PhD Seminar, University of Göttingen, May 23, 2025.
 - "Bisimplicial manifolds between higher Lie groupoids", Oberseminar Deformationsquantisierung und Geometrie, Julius-Maximilians-Universität Würzburg, May 02, 2025.
