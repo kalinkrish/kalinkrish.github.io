@@ -11,6 +11,7 @@ I am mainly interested in Higher groupoids and morphisms between them. Groupoids
 
 ### Conferences, Seminars, and Workshops organized
 
+- **[Summer School: Higher Categories for the Working Mathematician](https://events.gwdg.de/event/1365/)**, University of Göttingen, July 27-31, 2026.
 - **[BCGU-W Research Retreat](https://www.mathematik.uni-wuerzburg.de/aktuelles/winter-summerschools/bcgu-w-research-retreat/)**, Würzburg, Dec 05-08, 2025.
 - **[Exploring new arrows in the BCGW-groupoid II](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2025/)**, Higher Structures PhD Retreat, Burbach, Mar 7-10, 2025.
 - **[Exploring new arrows in the BGW-groupoid](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/)**, Higher Structures PhD Retreat, Bielefeld, Oct 25-28, 2024.
