@@ -18,6 +18,7 @@ I am mainly interested in Higher groupoids and morphisms between them. Groupoids
 
 ### Conferences, Seminars, and Workshops attended
 
+- **Higher Differential Geometry** , Alfried Krupp Wissenschaftskolleg, Greifswald, May 04-08, 2026.
 - **Higher Structures: Recent Developments and Applications** , Universität Hamburg, Germany, Sep 08-12, 2025.
 - **International Category Theory Conference 2025** , Masaryk University, Brno, Czech Republic, July 13-19, 2025.
 - **Higher Geometric Structures along the Lower Rhine XVIII** , Radboud University, Nijmegen, Jan 23-24, 2025.
