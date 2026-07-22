@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
+- "[On Model Categories](/Preschool_Lecture_notes.pdf)", Preschool Lecture Notes, Higher Categories for the Working Mathematician, July 22, 2026.
 - "Bundle up the Arrows: We're going Higher", Gong Talk, Higher Differential Geometry, Alfried Krupp Wissenschaftskolleg, May 04, 2026.
 - "Free left and Forgetful Right:Adjoints", RTG PhD Seminar, University of Göttingen, Jan 30, 2026.
 - "Double --> Simplicial Generalized Morphisms ", Short Talk, [BCGU-W  Research Retreat](https://www.mathematik.uni-wuerzburg.de/aktuelles/winter-summerschools/bcgu-w-research-retreat/), Würzburg, Dec 06, 2025.
