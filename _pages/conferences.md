@@ -1,0 +1,31 @@
+---
+layout: page
+permalink: /conferences/
+title: Conferences
+description:
+nav: true
+nav_order: 6
+---
+
+### Conferences, Seminars, and Workshops organized
+
+- **[Summer School: Higher Categories for the Working Mathematician](https://events.gwdg.de/event/1365/)**, University of Göttingen, July 27-31, 2026.
+- **[BCGU-W Research Retreat](https://www.mathematik.uni-wuerzburg.de/aktuelles/winter-summerschools/bcgu-w-research-retreat/)**, Würzburg, Dec 05-08, 2025.
+- **[Exploring new arrows in the BCGW-groupoid II](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2025/)**, Higher Structures PhD Retreat, Burbach, Mar 7-10, 2025.
+- **[Exploring new arrows in the BGW-groupoid](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/)**, Higher Structures PhD Retreat, Bielefeld, Oct 25-28, 2024.
+
+### Conferences, Seminars, and Workshops attended
+
+- **Higher Differential Geometry** , Alfried Krupp Wissenschaftskolleg, Greifswald, May 04-08, 2026.
+- **Higher Structures: Recent Developments and Applications** , Universität Hamburg, Germany, Sep 08-12, 2025.
+- **International Category Theory Conference 2025** , Masaryk University, Brno, Czech Republic, July 13-19, 2025.
+- **Higher Geometric Structures along the Lower Rhine XVIII** , Radboud University, Nijmegen, Jan 23-24, 2025.
+- **Poisson Conference 2024**, Accademia Pontaniana-Naples, July 8-12, 2024.
+- **International Category Theory Conference 2024**, Santiago de Compostella, June 23-30, 2024.
+- **Developments in Modern Mathematics**: WiMGo conference, University of Göttingen, Sept 18-20, 2023.
+- **Higher Differential Geometry in BGW Groupoids**, Bad Münster, June 9-11, 2023.
+- **Higher Structures in Geometry and Mathematical Physics**, CIRM Luminy, April 17-21, 2023.
+- **Atelier on Higher structures in Differential Geometry**, Institut Camille Jordan, Université Claude-Bernard Lyon, Dec 07-09, 2022.
+- **Interactions and Applications of Homotopical Algebra and Geometry**, University of Luxembourg, Nov 14-16, 2022.
+- **Göttingen school on Random walks and related topics**, University of Göttingen, Oct 17-21, 2022.
+- **Workshop on Higher structures and Operadic Calculus** (Online), Centre de Recerca Matemàtica, June 21-25, 2021.
