@@ -14,8 +14,9 @@ nav_order: 6
 - **[Exploring new arrows in the BCGW-groupoid II](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2025/)**, Higher Structures PhD Retreat, Burbach, Mar 7-10, 2025.
 - **[Exploring new arrows in the BGW-groupoid](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/)**, Higher Structures PhD Retreat, Bielefeld, Oct 25-28, 2024.
 
-### Conferences, Seminars, and Workshops attended
+### Conferences, Seminars, and Workshops attended\
 
+- **Poisson Conference 2026** , Katholieke Universiteit Leuven, Belgium, Aug 10-14, 2026.
 - **Higher Differential Geometry** , Alfried Krupp Wissenschaftskolleg, Greifswald, May 04-08, 2026.
 - **Higher Structures: Recent Developments and Applications** , Universität Hamburg, Germany, Sep 08-12, 2025.
 - **International Category Theory Conference 2025** , Masaryk University, Brno, Czech Republic, July 13-19, 2025.
